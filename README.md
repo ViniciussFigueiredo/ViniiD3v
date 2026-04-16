@@ -47,7 +47,7 @@ Sigo me aperfeiçoando a todo o ecossistema React, com o objetivo de evoluir con
 
 ## ♻️ Stack Principal
 
-<div style="display: inline-block">
+<div style="display: flex">
   <img align="center" alt="React" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" />
   <img align="center" alt="Node.js" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" />
   <img align="center" alt="Java" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" />
